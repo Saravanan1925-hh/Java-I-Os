@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        String address = "123 Main Street\nCity: New Delhi\nState: Delhi\nPin Code: 110001";
+        System.out.println(address);
+    }
+}
